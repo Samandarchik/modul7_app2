@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1019489486029",
+    "project_id": "food-a2a32",
+    "storage_bucket": "food-a2a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019489486029:android:10bfc56cdde08285c69584",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Q0DZE1ZeY966rjmOQj4pd6GoFkUFz5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019489486029:android:8bd2cfd480ac3b59c69584",
+        "android_client_info": {
+          "package_name": "com.example.modul7_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Q0DZE1ZeY966rjmOQj4pd6GoFkUFz5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
